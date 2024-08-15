@@ -1,9 +1,6 @@
 # Hey there, I'm Seyit! 👋
 
 Real knack for digging deep into problems and finding straightforward solutions. 
-
-- 🎮 iOS Dev
-- 🧐 Passionate about all things iOS
 - ❤️ Open Source enthusiast
 - 👨🏻‍🍳 Cooking aficionado
 
